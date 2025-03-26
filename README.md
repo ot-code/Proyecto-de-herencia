@@ -1,7 +1,13 @@
 <h1 align="center">Proyecto de herencia</h1>💱
 
-## Diagrama UML
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/c49de262-a736-4f87-98ef-0c274611beb1" alt="Conversor de divisas por defecto" width="700" height="600" />
+</div>
+<div align="center">
+  App ejecutada en terminal
+</div>
 
+## Diagrama UML
 <div align="center">
   <img src="https://github.com/user-attachments/assets/3929e070-e1cf-41f3-bdab-200b6159bd6b" alt="Conversor de divisas por defecto" width="700" height="600" />
 </div>
