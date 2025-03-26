@@ -1,4 +1,4 @@
-<h1 align="center">Proyecto de herencia</h1>💱
+<h1 align="center">Proyecto de herencia</h1>
 
 El proyecto de herencia es una aplicación Java diseñada para demostrar los conceptos fundamentales de la programación orientada a objetos, en particular la **herencia**. ¡Una excelente muestra de cómo aplicar principios POO en un entorno real! 🚀
 
@@ -54,7 +54,7 @@ El sistema demuestra cómo, mediante la herencia, se puede aprovechar la reutili
 
 ---
 
-<h2 align="center">Análisis del código</h2>💱
+<h2 align="center">Análisis del código</h2>
 
 ## CuentaBase
 
