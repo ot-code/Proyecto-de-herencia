@@ -52,6 +52,10 @@ La aplicación simula el sistema de cuentas de un banco (en este caso, para el b
 
 El sistema demuestra cómo, mediante la herencia, se puede aprovechar la reutilización de código y simplificar la implementación de características comunes, adaptando cada subclase a su funcionalidad específica. 💻✨
 
+---
+
+<h2 align="center">Análisis del código</h2>💱
+
 ## CuentaBase
 
 1. **Estructura y código**
@@ -254,3 +258,7 @@ El sistema demuestra cómo, mediante la herencia, se puede aprovechar la reutili
      La clase **Main** aprovecha las implementaciones específicas de cada subclase (TarjetaDebito, TarjetaCredito y CuentaAhorro) que extienden de **CuentaBase**. Esto refuerza el concepto de reutilización de código y la modularidad, ya que cada tipo de cuenta tiene su comportamiento particular.
 
 ---
+
+<p align="center">
+  <big><strong>✨¡Gracias por visitar este repositorio!✨</strong></big>
+</p> 
